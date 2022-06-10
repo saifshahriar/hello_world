@@ -1,0 +1,4 @@
+#!/usr/bin/env node
+
+let greeting = "Hello World!"
+console.log(greeting)
