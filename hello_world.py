@@ -10,7 +10,6 @@
 # compile	:
 # $ python hello_world.py
 
-
 greeting = "Hello World!"
 
 print(greeting)
