@@ -6,7 +6,7 @@
  * repo		: https://github.com/saifshahriar/hello_world
  *
  * compile	:
- * $ gcc hello_world.c -o hello_world                                                                                                  ─╯
+ * $ gcc hello_world.c -o hello_world
  * $ ./hello_world
  */
 
