@@ -1,0 +1,8 @@
+*.asm		- Assembly
+*.c			- C
+*.cpp		- C++
+*.f95		- Fortran
+*.go		- Go
+*.lua		- Lua
+*.py		- Python
+*.sh		- Shell
