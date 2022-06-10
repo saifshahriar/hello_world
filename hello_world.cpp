@@ -6,7 +6,7 @@
  * repo		: https://github.com/saifshahriar/hello_world
  *
  * compile	:
- * $ g++ hello_world.cpp -o hello_world                                                                                                  ─╯
+ * $ g++ hello_world.cpp -o hello_world
  * $ ./hello_world
  */
 
