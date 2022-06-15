@@ -14,7 +14,7 @@ with Ada.Text_IO;
 
 procedure hello_world is
 
-		greeting : String := "Hello World!";
+greeting : String := "Hello World!";
 
 begin
 	Ada.Text_IO.Put_Line(greeting);				-- Ada.Text_IO.Put_Line(String'image(greeting));
