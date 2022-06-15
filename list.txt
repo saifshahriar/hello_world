@@ -1,8 +1,10 @@
 *.asm		- Assembly
+*.abd		- Ada
 *.c			- C
 *.cpp		- C++
 *.f95		- Fortran
 *.go		- Go
 *.lua		- Lua
+*.m			- Objective-C
 *.py		- Python
 *.sh		- Shell
